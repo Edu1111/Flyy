@@ -37,8 +37,6 @@ const Navbar = () => {
         </div>
 
         <div className="none flex">
-          <li className="flex"> <BiSupport className='icon'/> Support</li>
-          <li className="flex"> <GrLanguage className='icon'/> Languages</li>
         </div>
 
         <div className="atb flex">
